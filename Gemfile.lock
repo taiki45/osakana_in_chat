@@ -33,7 +33,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-japan_weather (0.0.2)
+    ruboty-japan_weather (0.0.3)
       ruboty
       weather_jp (~> 1.0)
     ruboty-lgtm (0.0.2)
